@@ -12,7 +12,7 @@
    
    3.If you are an admin our chatbot displays adminDashboard. In that you can directly enter the option based what its displaying for          example if you enter the option 1 for view courses its displays all your courses details etc. Our chatbot displays what ever you want      in the dashboard.
    
-   4.If you are a student this chatbot displays a dashboard that suits for student..after that based on your department you can register        to any courses for example if i am from eee department  but want to enroll into a course from cse due to passion we can register but      providing guidlines.you can unenroll from your registerd courses
+   4.If you are a student this chatbot displays a dashboard that suits for student..after that based on your department you can register        to any courses for example if i am from eee department  but want to enroll into a course from cse due to passion we can register but      providing guidlines.you can unenroll from your registered courses
    
    5.This chatbot can also help admins/teachers to add an extra course for students and to get the information of registered students.
    
