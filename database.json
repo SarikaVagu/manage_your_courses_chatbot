@@ -1,5 +1,8 @@
 {
+    "uday": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
+    "sarika": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
     "vagu": "3b4606a559ca86d169d8c17c99c8189a84208387562de98fb7158bf16f331539",
-    "admin": null,
-    "sarika": "e579248fc1174c59e5469c6acb7251e59b6984d03e62499aaa6283926f505a08"
+    "admin": [
+        "vagu"
+    ]
 }

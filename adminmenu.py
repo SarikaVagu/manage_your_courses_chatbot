@@ -11,7 +11,9 @@ def adminMenu():
     adminDashBoard()
 def adminDashBoard():
         try :
-            option = int(input("........DashBoard.......\nplease choose the option :\n1.view courses\n2.add courses\n3.Number of registered students\n4.delete course\n... enter 0 to go back\n"))
+            print("\n****************************\n*........DashBoard.........*\n*please choose the option :*\n*1.view courses            *\n*2.add Courses            *\n*3.Number of registered students           * \n*4.delete course  *\n*5.quit                    *\n****************************\n")
+            print("Enter 5 to quit")
+            option = int(input())
             if option==1 :
                 adminCourses()
             elif option==2:
@@ -22,6 +24,8 @@ def adminDashBoard():
                 deleteCourse()
             elif option==0:
                 adminMenu()
+            elif option==5:
+                Quit()
             else :
                 print("please enter valid option")
                 adminMenu()
@@ -59,6 +63,9 @@ def adminCourses():
 def addCourses():
     adminDepartment()
     try :
+        print("add a course")
+        opt = input()
+
         all_courses[dep].append(opt)
         print("....congratualations....\nyou have succesfully update an extra course after updating the courses are ....")
         print(all_courses[dep])
@@ -101,3 +108,8 @@ def department_courses():
     for k in all_courses[dep-1]:
         print("{}. {}".format(count,k))
         count+=1
+def Quit():
+    print("\nYou are successfully logged out")
+    print("...................................")
+    print("Thank You!!!")
+adminMenu()

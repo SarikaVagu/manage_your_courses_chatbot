@@ -4,6 +4,7 @@ class Database:
     def __init__(self):
         with open('database.json', 'r') as openfile:
             self.database = dict(json.load(openfile))
+        print(type(self.database))
 
     def getDatabase(self):
         return self.database
