@@ -6,7 +6,7 @@
    
    ________What our manage_your_courses_chatbot will do : __________
    
-   1. In this chatbot you can simply create your account by entering your registration number and password .
+  1. In this chatbot you can simply create your account by entering your registration number and password .
    
    2.If you have an account already you can just choose login option to get the the details of your account
    
