@@ -105,4 +105,3 @@ def delete_courses(student_courses):
 def quit():
     print("Thank You!!!")
     print("...................................")
-StudentMenu()

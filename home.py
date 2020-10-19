@@ -1,3 +1,5 @@
+from StudentLogin import StudentMenu
+
 def new_user_validate(user):
     return True
 
@@ -5,7 +7,7 @@ def existing_user_validate(user):
     return True
 
 def isAdmin(regno):
-    return True
+    return False
 
 def login():
     print("____LOGIN____")
@@ -18,8 +20,7 @@ def login():
             # adminMenu()
             pass
         else:
-            # studentMenu()
-            pass
+            StudentMenu()
     else:
         print("Login Unsuccesful")
         mainMenu()
