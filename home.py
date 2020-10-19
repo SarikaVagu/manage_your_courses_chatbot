@@ -30,7 +30,7 @@ def existing_user_validate(username , password):
         return False
 
 def isAdmin(username):
-    return username=="admin"
+    return username=="Admin"
 
 def login():
     print("____LOGIN____")
