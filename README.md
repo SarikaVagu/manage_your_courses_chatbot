@@ -14,6 +14,6 @@
    
    4.If you are a student this chatbot displays a dashboard that suits for student..after that based on your department you can register        to any courses for example if i am from eee department  but want to enroll into a course from cse due to passion we can register but      providing guidlines.you can unenroll from your registerd courses
    
-   5.This chatbot can also help admins\teachers to add an extra course for students and to get the information of registered students.
+   5.This chatbot can also help admins/teachers to add an extra course for students and to get the information of registered students.
    
    6.This chatbot also gives the suggestion how to enter into any course, and how to go back by simply enetring number.
