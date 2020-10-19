@@ -3,7 +3,7 @@ import hashlib
 import sys
 import signal
 import getpass
-from users import Database;
+from users import Database
 from adminmenu import adminMenu
 
 db=Database()
@@ -30,7 +30,7 @@ def existing_user_validate(username , password):
         return False
 
 def isAdmin(username):
-    return False
+    return username=="admin"
 
 def login():
     print("____LOGIN____")
