@@ -2,7 +2,7 @@
 
   ________Objective of manage_your_courses_chatbot : __________________
              
-   we will have many workshops and courses going on in our colleges but so many students are noticed hard to get information regarding those. This leeds to develop "manage_your_courses_chatbot". So this chatbot gives information regarding courses or workshops and guides us through registration process and enrolling into newcourses based on departments.
+   we will have many workshops and courses going on in our colleges but so many students are noticed hard to get information regarding those. This leads to develop "manage_your_courses_chatbot". So this chatbot gives information regarding courses or workshops and guides us through registration process and enrolling into newcourses based on departments.
    
    ________What our manage_your_courses_chatbot will do : __________
    
