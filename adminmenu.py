@@ -112,4 +112,3 @@ def Quit():
     print("\nYou are successfully logged out")
     print("...................................")
     print("Thank You!!!")
-adminMenu()

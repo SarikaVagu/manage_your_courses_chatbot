@@ -4,6 +4,7 @@ import sys
 import signal
 import getpass
 from users import Database;
+from adminmenu import adminMenu
 
 db=Database()
 
@@ -39,8 +40,7 @@ def login():
     if existing_user_validate(username,password):
         print("Login Succesful")
         if isAdmin(username):
-            # adminMenu()
-            pass
+            adminMenu()
         else:
             StudentMenu()
     else:
