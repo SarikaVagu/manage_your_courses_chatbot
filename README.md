@@ -16,4 +16,4 @@
    
    5.This chatbot can also help admins\teachers to add an extra course for students and to get the information of registerd students.
    
-   6.This chatbot also gives the suggestion how to enter into any course, and how to go back by simply enetring number.
+   6.This chatbot also gives the suggestion how to enter into any course, and how to go back by simply entering number.
