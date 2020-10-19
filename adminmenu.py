@@ -101,5 +101,3 @@ def department_courses():
     for k in all_courses[dep-1]:
         print("{}. {}".format(count,k))
         count+=1
-        
-adminMenu()
