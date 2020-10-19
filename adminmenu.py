@@ -59,14 +59,9 @@ def adminCourses():
 def addCourses():
     adminDepartment()
     try :
-        print("add a course")
-        opt = input()
-        if(opt=='0'):
-            adminDashBoard()
-        else:
-            all_courses[dep].append(opt)
-            print("....congratualations....\nyou have succesfully update an extra course after updating the courses are ....")
-            print(all_courses[dep])
+        all_courses[dep].append(opt)
+        print("....congratualations....\nyou have succesfully update an extra course after updating the courses are ....")
+        print(all_courses[dep])
     except:
         print("please enter a valid input")
         adminDashBoard()
