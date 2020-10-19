@@ -3,6 +3,7 @@ ________TEAM MEMBERS________
 1. Sarika vagu -16pa1a1252
 2. Saraswathula Sri Jnanendra Chalapathi - 19pa1a12b3
 3. Penumala Sravani - 19pa1a1297
+
 ________Objective of manage_your_courses_chatbot _____________:
     we will have many workshops and courses going on in our colleges but so many students are noticed hard to get information regarding those. This leeds to develop "manage_your_courses_chatbot". So this chatbot gives information regarding courses or workshops and guides us through registration process and enrolling into newcourses based on departments.
 
